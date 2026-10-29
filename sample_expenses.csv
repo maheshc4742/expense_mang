@@ -1,0 +1,12 @@
+date,description,amount,type,category
+2026-10-02,Monthly stipend,8000,income,Income
+2026-10-03,Room rent,4500,expense,Housing
+2026-10-05,Groceries,980,expense,Food
+2026-10-06,Metro card,450,expense,Transport
+2026-10-08,Textbooks,750,expense,Education
+2026-10-10,Cafe lunch,320,expense,Food
+2026-10-12,Movie tickets,600,expense,Entertainment
+2026-10-16,Online shopping,2400,expense,Shopping
+2026-10-19,Fuel,700,expense,Transport
+2026-10-23,Restaurant dinner,1850,expense,Food
+2026-10-27,Electronics purchase,3900,expense,Shopping
